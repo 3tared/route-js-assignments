@@ -1,4 +1,4 @@
-# Part 3: Node Internals
+# Part 3: Node Internals (note: formated the file using ai for better reading + examples also)
 
 ## 1. What is the Node.js Event Loop?
 
